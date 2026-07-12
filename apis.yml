@@ -33,6 +33,8 @@ tags:
   - Urban Air Mobility
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/archer-aviation-domain-security.yml
   - url: https://www.archer.com/
     name: Archer Aviation Website
     type: Website
